@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFC_Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="no_nfc">该设备不支持NFC</string>
+    <string name="open_nfc">NFC功能没打开，请打开</string>
+    <string name="write_tag">写入标签</string>
+    <string name="read_tag">读出标签</string>
+    <string name="edit_hint">请输入您要写入标签的内容</string>
+
+</resources>
